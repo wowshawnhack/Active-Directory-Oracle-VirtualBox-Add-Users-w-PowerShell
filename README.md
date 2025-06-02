@@ -89,3 +89,10 @@ This project guides you through setting up a basic Active Directory (AD) home la
 - Run the script in PowerShell as Administrator:
   ```powershell
   .\1_CREATE_USERS.ps1
+
+## 🤝 Acknowledgments
+
+This lab setup and automation approach is based on the excellent educational content provided by [Josh Madakor](https://github.com/joshmadakor1). His tutorial on setting up an Active Directory lab environment using VirtualBox, Windows Server, and PowerShell provided the foundation for this project.
+
+Be sure to check out his [GitHub repository](https://github.com/joshmadakor1/AD_PS) and YouTube channel for more hands-on IT and cybersecurity labs.
+
